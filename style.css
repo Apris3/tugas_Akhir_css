@@ -1,0 +1,43 @@
+/* css halaman index */
+.index {
+  margin: 2px;
+  background-image: url("4.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.caption {
+  text-align: center;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: 500;
+  color: white;
+  margin-top: 100px;
+  padding: 10px 10px;
+  background-color: navy;
+  opacity: 60%;
+}
+/* css halaman My Desain */
+.bodi {
+    margin: 3px;
+}
+/* css halaman Contact */
+.contact {
+  background-image: url("coffee.jpg");
+  background-size: cover;
+  margin: 3px;
+  height: 100vh;
+  display: flex;
+}
+.border{
+  width:500px;
+  height:200px;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+  padding: 40px 0 0 20px;
+  border-radius: 2% 15%;
+  margin: 200px 0 0 100px;
+  background-color: white;
+  opacity: 40%;
+}
